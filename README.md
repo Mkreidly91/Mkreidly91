@@ -1,13 +1,14 @@
 <h1 align="center">Hi 👋, I'm Mostafa Kreidly</h1>
 <h3 align="center">Full-Stack Developer</h3>
 
-- 📫 How to reach me **mostafakreidly519@gmail.com**
+</br>
+</br>
   
 I'm Mostafa Kreidly, a Beirut-based full-stack web developer with expertise in JavaScript, React, Node.js, HTML, and CSS. I strive to create seamless and robust applications that empower businesses and engage users. Web development has taught me to adopt a  continuous learning mindset and a strong work ethic, as well as critical thinking and problem-solving skills. Outside of work, I enjoy hobbies like skating, working out, gardening, and have a passion for music, animals, and wildlife.
 
 </br>
 </br>
-</br>
+
 
 
 ```javascript
@@ -26,4 +27,6 @@ const mostafaKreidly = {
    
   
 }
-``` 
+```
+</br>
+- 📫 Reach out at **mostafakreidly519@gmail.com**
